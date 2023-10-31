@@ -15,6 +15,9 @@
   Developer qualification requires a solid foundation in computer science and programming principles. Some of the fundamental skills acquired include proficiency in programming 
   languages java, database development, software developments life cycle, systems testing. </p>
 
+<p><br>Feel Free to contact me on  LinkedIN </p>
+  https://www.linkedin.com/in/sakhile-mkhalele/
+
 
 <!---
 SakhileM17/SakhileM17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
