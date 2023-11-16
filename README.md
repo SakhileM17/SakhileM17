@@ -1,6 +1,12 @@
 <h2>Software Developer. Tech and Innovation Enthusiast.</h2>
 
-<p>Hi i'm Sakhile a software developer from Johannesburg South Africa, i'm a Tech and Innovation Enthusiast and i belive in setting new benchmarks through innovation.  </p>
+<p>Enthusiastic and about to complete my studies, I'm a dedicated software developer with a strong passion for Java programming and results-driven with a background in designing, I strive on setting new benchmarks to implement game changing innovative software solutions.
+</p>
+<p>
+Java isn't just a programming language , for me it's a powerful tool that allows me to build everything from intricate backend systems to sleek user interfaces. I embrace the versatility of Java to create software that not only functions seamlessly but also delights users with its design
+</p>
+<p>
+In addition to my expertise in Java development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft visually appealing and user-friendly UI & UX designs, ensuring a seamless and aesthetically pleasing navigation experience.</p>
 
 <p>
     <strong> TechStack : </strong> <br> Java, Javascript, FXML ,C# ,SQL , T-Sql,  Html, Css <br><br>
@@ -17,7 +23,7 @@
 
 <p><br>Feel Free to contact me on  LinkedIN </p>
   https://www.linkedin.com/in/sakhile-mkhalele/
-
+<p><a href="https://sakhilemkhalele.pages.dev/" target="blank_"> Click here To learn more about me and view my porfolio</a></p>
 
 <!---
 SakhileM17/SakhileM17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
