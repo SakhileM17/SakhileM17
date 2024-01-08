@@ -8,7 +8,7 @@
 Java isn't just a programming language , for me it's a powerful tool that allows me to build everything from intricate backend systems to sleek user interfaces. I embrace the versatility of Java to create software that not only functions seamlessly but also delights users with its design
 </p>
 <p>
-    <strong> Technical Profieffiency </strong> <br> Langauges : Proficient in Java, with exposure to C#, Dart, T-SQL, and SQL. <br>
+    <h2> Technical Profieffiency </h2> <br> Langauges : Proficient in Java, with exposure to C#, Dart, T-SQL, and SQL. <br>
     Web Technologies : HTML, CSS, and JavaScript.
     <br>
     Database Management : Understanding of MySQL, Microsoft SQL server, Azure SQL.
