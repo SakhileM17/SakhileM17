@@ -2,7 +2,7 @@
 
 <p>I'm a dedicated full stack software developer with a strong passion for Java programming and results-driven with a background in designing, I strive on setting new benchmarks to implement game changing innovative software solutions.
     <br>
-    Being a software developer isnt just abour writing code but understanding probelems and creating innovative solutions. 
+    Being a software developer isnt just abour writing code but understanding problems and creating innovative solutions. 
 </p>
 <p>
 Java isn't just a programming language , for me it's a powerful tool that allows me to build everything from intricate backend systems to sleek user interfaces. I embrace the versatility of Java to create software that not only functions seamlessly but also delights users with its design
