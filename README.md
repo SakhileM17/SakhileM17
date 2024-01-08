@@ -29,6 +29,7 @@ Java isn't just a programming language , for me it's a powerful tool that allows
   languages java, database development, software developments life cycle, systems testing. 
 </p>
 <p>
+    <h2>Skills</h2>
     <p>
         In addition to my expertise in Java development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft
         visually appealing and user-friendly UI & UX designs, ensuring a seamless and aesthetically pleasing navigation experience.
