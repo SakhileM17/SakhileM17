@@ -1,25 +1,34 @@
 <h2>Software Developer. Tech and Innovation Enthusiast.</h2>
 
-<p>Enthusiastic and about to complete my studies, I'm a dedicated software developer with a strong passion for Java programming and results-driven with a background in designing, I strive on setting new benchmarks to implement game changing innovative software solutions.
+<p>I'm a dedicated full stack software developer with a strong passion for Java programming and results-driven with a background in designing, I strive on setting new benchmarks to implement game changing innovative software solutions.
+    <br>
+    Being a software developer isnt just abour writing code but understanding probelems and creating innovative solutions. 
 </p>
 <p>
 Java isn't just a programming language , for me it's a powerful tool that allows me to build everything from intricate backend systems to sleek user interfaces. I embrace the versatility of Java to create software that not only functions seamlessly but also delights users with its design
 </p>
 <p>
-In addition to my expertise in Java development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft visually appealing and user-friendly UI & UX designs, ensuring a seamless and aesthetically pleasing navigation experience.</p>
-
-<p>
-    <strong> TechStack : </strong> <br> Java, Javascript, FXML ,C# ,SQL , T-Sql,  Html, Css <br><br>
+    <strong> Technical Profieffiency </strong> <br> Langauges : Proficient in Java, with exposure to C#, Dart, T-SQL, and SQL. <br>
+    Web Technologies : HTML, CSS, and JavaScript.
+    <br>
+    Database Management : Understanding of MySQL, Microsoft SQL server, Azure SQL.
+    <br>
+    Frame Works : Basic knowledge of Spring Boot and flutter.
+    <br>
     <strong> Skills </strong> <br> Graphics Design and proficient with Adobe illustrator, Adobe After Effects, AdobePhotoshop.
 </p>
 
 <h2>Certifications</h2>
 <p><strong>Oracle Cloud Infrastructure</strong> : Foundations Associate Certification 2023
 </p>
+
+<p>
+In addition to my expertise in Java development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft visually appealing and user-friendly UI & UX designs, ensuring a seamless and aesthetically pleasing navigation experience.</p>
 <h2>Learning</h2>
-<p>We'll always be students of the game as learning never stops. <br><br> <Strong>Current Course : AIE Full Stack Software Developer </Strong> <br> <br> This Full Stack Software 
+<p>We'll always be students of the game as learning never stops. <br><br> <Strong>Courses : AIE Full Stack Software Developer </Strong> <br> <br> This Full Stack Software 
   Developer qualification requires a solid foundation in computer science and programming principles. Some of the fundamental skills acquired include proficiency in programming 
-  languages java, database development, software developments life cycle, systems testing. </p>
+  languages java, database development, software developments life cycle, systems testing. 
+</p>
 
 <p><br>Feel Free to contact me on  LinkedIN </p>
   https://www.linkedin.com/in/sakhile-mkhalele/
