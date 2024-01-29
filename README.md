@@ -1,11 +1,16 @@
 <h2>Software Developer. Tech and Innovation Enthusiast.</h2>
 
-<p>I'm a dedicated full stack software developer with a strong passion for Java programming and results-driven with a background in designing, I strive on setting new benchmarks to implement game changing innovative software solutions.
-    <br>
-    Being a software developer isnt just abour writing code but understanding problems and creating innovative solutions. 
+<p>
+    Being a software developer isnt just about writing code but understanding problems and creating innovative solutions.
 </p>
 <p>
-Java isn't just a programming language , for me it's a powerful tool that allows me to build everything from intricate backend systems to sleek user interfaces. I embrace the versatility of Java to create software that not only functions seamlessly but also delights users with its design
+    I'm a dedicated full stack software developer with a strong passion for Java programming and I'm results-driven with a background in business development as well as as background in design, I always strive on setting new benchmarks by implementing game changing innovative software solutions
+</p>
+<p>
+    In addition to my expertise in Software development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft visually appealing and user-friendly UI & UX designs, ensuring a seamless and aesthetically pleasing navigation experience.
+</p>
+<p>
+    Fuelled by my insatiable curiosity and entrepreneurial skills, I consistently embrace the challenge of thinking outside the box to craft solutions for both present challenges and those that may arise in the future.
 </p>
 <p>
     <h2> Technical Profieffiency </h2> Langauges     : Proficient in Java, with exposure to C#, Dart, T-SQL, and SQL. <br>
