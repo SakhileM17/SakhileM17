@@ -13,13 +13,19 @@
     Fuelled by my insatiable curiosity and entrepreneurial skills, I consistently embrace the challenge of thinking outside the box to craft solutions for both present challenges and those that may arise in the future.
 </p>
 <p>
-    <h2> Technical Profieffiency </h2> Langauges     : Proficient in Java, with exposure to C#, Dart, T-SQL, and SQL. <br>
-    Web Technologies     : HTML, CSS, and JavaScript.
+    <h2> Technical Profieffiency </h2> 
+    <p>
+        My journey as a software developer has provided me with a solid foundation in Software programming, the software development life cycle, Business Principles,as well as proficiency in algorithms, data structures, and the role of Information Technology, Ethics and Professionalism in the computer industry
+    </p>
+    Languages           : Java, C#, T-SQL & SQL
     <br>
-    Database Management     : Understanding of MySQL, Microsoft SQL server, Azure SQL.
+    Frameworks          : Node.Js, React, Spring, .Net
     <br>
-    Frame Works     : Basic knowledge of Spring Boot and flutter.
+    Web Technologies       : HTML, CSS, and JavaScript
     <br>
+    Web Technologies       : HTML, CSS, and JavaScript
+    <br>
+    Design             : Adobe Illustrator, Adobe Photoshop, Adobe After Effects
     
 </p>
 
@@ -27,12 +33,9 @@
 <p><strong>Oracle Cloud Infrastructure</strong> : Foundations Associate Certification 2023
 </p>
 
+<p>I continuously invest in honing my skills to keep pace with the rapid advancements in technology and stay abreast of the latest trends</p>
 
-<h2>Learning</h2>
-<p>We'll always be students of the game as learning never stops. <br><br> <Strong>Courses : AIE Full Stack Software Developer </Strong> <br> <br> This Full Stack Software 
-  Developer qualification requires a solid foundation in computer science and programming principles. Some of the fundamental skills acquired include proficiency in programming 
-  languages java, database development, software developments life cycle, systems testing. 
-</p>
+
 <p>
     <h2>Skills</h2>
     <p>
