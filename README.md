@@ -4,7 +4,7 @@
     Being a software developer isnt just about writing code but understanding problems and creating innovative solutions.
 </p>
 <p>
-    I'm a dedicated full stack software developer with a strong passion for Java programming and I'm results-driven with a background in business development as well as as background in design, I always strive on setting new benchmarks by implementing game changing innovative software solutions
+    I'm a dedicated full stack software developer with a strong passion for software programming and I'm results-driven with a background in business development as well as as background in design, I always strive on setting new benchmarks by implementing game changing innovative software solutions
 </p>
 <p>
     In addition to my expertise in Software development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft visually appealing and user-friendly UI & UX designs, ensuring a seamless and aesthetically pleasing navigation experience.
@@ -13,7 +13,7 @@
     Fuelled by my insatiable curiosity and entrepreneurial skills, I consistently embrace the challenge of thinking outside the box to craft solutions for both present challenges and those that may arise in the future.
 </p>
 <p>
-    <h2> Technical Profieffiency </h2> 
+    <h2> Technical Proficiency </h2> 
     <p>
         My journey as a software developer has provided me with a solid foundation in Software programming, the software development life cycle, Business Principles,as well as proficiency in algorithms, data structures, and the role of Information Technology, Ethics and Professionalism in the computer industry
     </p>
