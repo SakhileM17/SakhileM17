@@ -44,7 +44,7 @@
 </p>
 </p>
 
-<p><br>Feel Free to contact me on  LinkedIN </p>
+<p><br>Let's connect and create amazing projects. Feel Free to contact me on  LinkedIN </p>
   https://www.linkedin.com/in/sakhile-mkhalele/
 <p><a href="https://sakhilemkhalele.pages.dev/" target="blank_"> Click here To learn more about me and view my porfolio</a></p>
 
