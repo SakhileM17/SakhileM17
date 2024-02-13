@@ -23,7 +23,7 @@
     <br>
     Web Technologies       : HTML, CSS, and JavaScript
     <br>
-    Web Technologies       : HTML, CSS, and JavaScript
+    Database Management     : MySQL, Azure Microsoft SQL server and Orcale
     <br>
     Design             : Adobe Illustrator, Adobe Photoshop, Adobe After Effects
     
