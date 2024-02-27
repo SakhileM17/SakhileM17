@@ -17,13 +17,13 @@
     <p>
         My journey as a software developer has provided me with a solid foundation in Software programming, the software development life cycle, Business Principles,as well as proficiency in algorithms, data structures, and the role of Information Technology, Ethics and Professionalism in the computer industry
     </p>
-    Languages           : Java, C#, T-SQL & SQL
+    Languages           : Java, C# SQL, T-SQL.
     <br>
-    Frameworks          : Node.Js, React, Spring, .Net
+    Frameworks          : React, NodeJS, Spring, Net.
     <br>
     Web Technologies       : HTML, CSS, and JavaScript
     <br>
-    Database Management     : MySQL, Azure Microsoft SQL server and Orcale
+    Database Management     : MySQL,  Microsoft SQL server, Azure and Orcale
     <br>
     Design             : Adobe Illustrator, Adobe Photoshop, Adobe After Effects
     
