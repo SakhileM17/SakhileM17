@@ -1,6 +1,6 @@
 <h2>Full Stack Software Developer. Tech and Innovation Enthusiast.</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhimem17&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhilem17&show_icons=true&theme=radical)
 
 
 
