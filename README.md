@@ -21,15 +21,11 @@
     <br>
    -  Design                 : Adobe Illustrator, Adobe Photoshop, Adobe After Effects
 
-   <br>
+   <p/>
     
 </p>
 
-<p>
-     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 
 <p>
     
