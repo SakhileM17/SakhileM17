@@ -1,5 +1,9 @@
 <h2>Full Stack Software Developer. Tech and Innovation Enthusiast.</h2>
 
+[![My GitHub Stats](https://github-readme-stats.vercel)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel)]()
+
+
 <p>
     Being a software developer isnt just about writing code but understanding problems and creating innovative solutions.
 </p>
