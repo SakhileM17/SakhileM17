@@ -1,15 +1,10 @@
 <h2>Full Stack Software Developer. Tech and Innovation Enthusiast.</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilem17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 <p>
     Being a software developer isnt just about writing code but understanding problems and creating innovative solutions.
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilem17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
     <h2> Technical Proficiency </h2> 
