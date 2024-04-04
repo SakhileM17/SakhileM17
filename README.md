@@ -22,6 +22,17 @@
 </p>
 
 <p>
+    
+<h2>
+    Certifications
+</h2>
+<p>
+    <strong>Oracle Cloud Infrastructure</strong> : Foundations Associate Certification 2023
+</p>
+    
+</p>
+
+<p>
     I'm a dedicated full stack software developer with a strong passion for software programming and I'm results-driven with a background in business development as well as as background in design, I always strive on setting new benchmarks by implementing game changing innovative software solutions
 </p>
 <p>
@@ -32,9 +43,7 @@
 </p>
 
 
-<h2>Certifications</h2>
-<p><strong>Oracle Cloud Infrastructure</strong> : Foundations Associate Certification 2023
-</p>
+
 
 <p>I continuously invest in honing my skills to keep pace with the rapid advancements in technology and stay abreast of the latest trends</p>
 
@@ -42,7 +51,7 @@
 <p>
     <h2>Skills</h2>
     <p>
-        In addition to my expertise in Java development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft
+        In addition to my expertise in software development, I possess a solid foundation in graphic design with proficiency in Adobe Illustrator, Photoshop, and After Effects. This skill set enables me to craft
         visually appealing and user-friendly UI & UX designs, ensuring a seamless and aesthetically pleasing navigation experience.
 </p>
 </p>
