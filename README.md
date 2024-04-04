@@ -1,8 +1,26 @@
-<h2>Software Developer. Tech and Innovation Enthusiast.</h2>
+<h2>Full Stack Software Developer. Tech and Innovation Enthusiast.</h2>
 
 <p>
     Being a software developer isnt just about writing code but understanding problems and creating innovative solutions.
 </p>
+
+<p>
+    <h2> Technical Proficiency </h2> 
+    <p>
+    My journey as a software developer has provided me with a solid foundation in Software programming, the software development life cycle, Business Principles,as well as proficiency in algorithms, data structures, and the role of Information Technology, Ethics and Professionalism in the computer industry
+    </p>
+    Languages              : Java, C#, SQL, T-SQL.
+    <br>
+    Frameworks             : React, NodeJS, Spring, Net.
+    <br>
+    Web Technologies       : JavaScript, HTML, CSS, and bootstrap
+    <br>
+    Database Management    : MySQL,  Microsoft SQL server, Azure and Orcale
+    <br>
+    Design                 : Adobe Illustrator, Adobe Photoshop, Adobe After Effects
+    
+</p>
+
 <p>
     I'm a dedicated full stack software developer with a strong passion for software programming and I'm results-driven with a background in business development as well as as background in design, I always strive on setting new benchmarks by implementing game changing innovative software solutions
 </p>
@@ -12,22 +30,7 @@
 <p>
     Fuelled by my insatiable curiosity and entrepreneurial skills, I consistently embrace the challenge of thinking outside the box to craft solutions for both present challenges and those that may arise in the future.
 </p>
-<p>
-    <h2> Technical Proficiency </h2> 
-    <p>
-        My journey as a software developer has provided me with a solid foundation in Software programming, the software development life cycle, Business Principles,as well as proficiency in algorithms, data structures, and the role of Information Technology, Ethics and Professionalism in the computer industry
-    </p>
-    Languages              : Java, C# SQL, T-SQL.
-    <br>
-    Frameworks             : React, NodeJS, Spring, Net.
-    <br>
-    Web Technologies       : HTML, CSS, and JavaScript
-    <br>
-    Database Management    : MySQL,  Microsoft SQL server, Azure and Orcale
-    <br>
-    Design                 : Adobe Illustrator, Adobe Photoshop, Adobe After Effects
-    
-</p>
+
 
 <h2>Certifications</h2>
 <p><strong>Oracle Cloud Infrastructure</strong> : Foundations Associate Certification 2023
