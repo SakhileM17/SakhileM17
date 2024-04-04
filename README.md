@@ -1,6 +1,7 @@
 <h2>Full Stack Software Developer. Tech and Innovation Enthusiast.</h2>
 
-![GitHub top language](https://img.shields.io/github/languages/top/sakhilem17/repository)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilem17)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p>
