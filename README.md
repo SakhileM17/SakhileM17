@@ -30,7 +30,7 @@
 <p>
     
 <h2>
-    Certifications
+    Certification
 </h2>
 <p>
     <strong>- Oracle Cloud Infrastructure</strong> : Foundations Associate Certification 2023
